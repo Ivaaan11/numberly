@@ -1,0 +1,3 @@
+﻿  learning.cpp
+C:\Users\__Astral___\source\repos\learning\learning\learning.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  learning.vcxproj -> C:\Users\__Astral___\source\repos\learning\Debug\learning.exe
